@@ -36,4 +36,9 @@ namespace ConsoleApp1
         public int GetterSetter { get; set; }
         public string GetterSetter1 { get; set; }
     }
+
+    class MyClass3
+    {
+        
+    }
 }
