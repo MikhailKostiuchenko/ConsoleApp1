@@ -27,4 +27,9 @@ namespace ConsoleApp1
             }
         }
     }
+
+    class MyClass_1
+    {
+        
+    }
 }
