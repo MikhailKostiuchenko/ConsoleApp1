@@ -33,12 +33,12 @@ namespace ConsoleApp1
 
     class MyClass2
     {
-        public int GetterSetter { get; set; }
+        // DELETED by NB_1
         public string GetterSetter1 { get; set; }
     }
 
     class MyClass3
     {
-        
+        // ADDED by NB_1
     }
 }
