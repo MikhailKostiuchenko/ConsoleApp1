@@ -10,10 +10,11 @@ namespace ConsoleApp1
             int somevar;
             try
             {
+                Console.WriteLine("some new code");
             }
             catch (Exception e)
             {
-                somevar = 25;
+                //    exception
             }
             
         }
