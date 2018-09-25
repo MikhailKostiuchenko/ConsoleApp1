@@ -6,18 +6,21 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            dynamic someObj = null;
+            var mc = new MyClass_1();
             int somevar;
             try
             {
-                somevar = (int)someObj;
             }
             catch (Exception e)
             {
                 somevar = 25;
             }
             
-            Console.Write(somevar);
         }
+    }
+
+    class MyClass_1
+    {
+        
     }
 }
