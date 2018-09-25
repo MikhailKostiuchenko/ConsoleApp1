@@ -23,4 +23,10 @@ namespace ConsoleApp1
     {
         
     }
+    
+    // ADDED by NB_2 
+    enum MyEnum
+    {
+        
+    }
 }
