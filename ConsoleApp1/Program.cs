@@ -14,6 +14,7 @@ namespace ConsoleApp1
             catch (Exception e)
             {
                 somevar = 25;
+                Console.WriteLine(somevar);
             }
             
         }
@@ -21,6 +22,10 @@ namespace ConsoleApp1
 
     class MyClass_1
     {
-        
+        //    Created by NewBranch_1
+        void SomeMethod()
+        {
+            
+        }
     }
 }
