@@ -12,11 +12,17 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("some new code");
             }
+            
+            // added by NB_1
             catch (Exception e)
             {
                 somevar = 25;
-                Console.WriteLine(somevar);
+                // deleted by NB_1
             }
+            
+            // added by NB_1
+            // added by NB_1
+            // added by NB_1
             
         }
     }
