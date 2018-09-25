@@ -18,6 +18,13 @@ namespace ConsoleApp1
             }
             
             Console.Write(somevar);
+
+            void SomeMethod()
+            {
+                // do something
+                int i = 10;
+                Console.WriteLine(i + 500 + i--);
+            }
         }
     }
 }
