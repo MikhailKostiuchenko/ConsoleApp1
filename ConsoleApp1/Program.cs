@@ -30,6 +30,6 @@ namespace ConsoleApp1
 
     class MyClass_1
     {
-        
+        // changes added by me
     }
 }
