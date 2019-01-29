@@ -56,5 +56,7 @@ namespace ConsoleApp1
     class MyClass3
     {
         // ADDED by NB_1
+        public int Prop1 { get; set; }
+        public int Prop2 { get; set; }
     }
 }    
