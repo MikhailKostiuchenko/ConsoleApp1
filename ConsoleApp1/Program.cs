@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Sockets;
 using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp1
@@ -29,7 +30,11 @@ namespace ConsoleApp1
 
         }
 
+        //    NB_1
         public int GetSquare(int number) => number * number;
+        
+        //    NB_1
+        public double GetSqrt(int number) => Math.Sqrt(number);
     }
 
     class MyClass_1
