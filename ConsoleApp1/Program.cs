@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleApp1
 {
@@ -15,17 +16,20 @@ namespace ConsoleApp1
                 Console.WriteLine("some new code");
                 Console.WriteLine("some new code");
             }
-            
+
             // added by NB_1
             catch (Exception e)
             {
             }
-            
+
             // added by NB_1
             // added by NB_1
             // added by NB_1
             
+
         }
+
+        public int GetSquare(int number) => number * number;
     }
 
     class MyClass_1
@@ -33,9 +37,9 @@ namespace ConsoleApp1
         //    Created by NewBranch_1
         void SomeMethod()
         {
-            
+
         }
-        
+
     }
 
     class MyClass2
@@ -48,4 +52,4 @@ namespace ConsoleApp1
     {
         // ADDED by NB_1
     }
-}
+}    
