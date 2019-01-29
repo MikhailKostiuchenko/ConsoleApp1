@@ -58,5 +58,8 @@ namespace ConsoleApp1
         // ADDED by NB_1
         public int Prop1 { get; set; }
         public int Prop2 { get; set; }
+        public int Prop3 { get; set; }
+        public int Prop4 { get; set; }
+        
     }
 }    
