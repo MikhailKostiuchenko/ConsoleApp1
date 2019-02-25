@@ -10,6 +10,8 @@ namespace ConsoleApp1
         {
             // clear all (nb1)
             // some ch (nb1)
+            // clear all (nb2)
+            // some ch (nb2)
         }
     }
 }    
