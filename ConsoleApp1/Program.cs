@@ -10,6 +10,8 @@ namespace ConsoleApp1
         {
             // some ch (nb2)
             
+            //some ch of nb1
+            //some ch of nb1
         }
     }
 }    
