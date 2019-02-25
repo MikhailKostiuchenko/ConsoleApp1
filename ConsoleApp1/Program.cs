@@ -9,6 +9,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // clear all (nb2)
+            // some ch (nb2)
         }
     }
 }    
