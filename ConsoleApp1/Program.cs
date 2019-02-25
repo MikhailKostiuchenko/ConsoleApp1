@@ -10,6 +10,7 @@ namespace ConsoleApp1
         {
             // clear all
             // some chg of nb2
+            //add something
         }
     }
 }    
