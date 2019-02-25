@@ -8,9 +8,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // clear all
-            //add something
-            // add else
+            // clear all (nb2)
         }
     }
 }    
